@@ -11,7 +11,6 @@
     <img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
   </a>
 </p>
-<br>
 <p align="center">
     <a target="_blank" href="https://www.linkedin.com/in/aghandideh/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
     <a target="_blank" href="https://instagram.com/aghandideh"><img src="https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white"/></a>
