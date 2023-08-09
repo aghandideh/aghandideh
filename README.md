@@ -1,6 +1,6 @@
 <h1 align="center">Hey <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! 👋</h1>
 <p align="center">
-        <img alt="aghandideh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aghandideh&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img alt="aghandideh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aghandideh&theme=dark"/>
 </p>
 <br>
 <p align="center">
