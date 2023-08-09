@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋, I'm <a href="#" target="blank">Mohsen</a></h1>
 
 <a href="https://twitter.com/aghandideh" target="_blank">
-<img src="https://img.shields.io/twitter/follow/:aghandideh" alt="Twitter">
+<img src="https://img.shields.io/twitter/url" alt="Twitter">
 </a> 
 <a href="https://www.linkedin.com/in/aghandideh/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
