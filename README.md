@@ -34,23 +34,23 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="50" alt="php logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"  />
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="50" alt="laravel logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/graphql/E10098" height="40" alt="graphql logo"  />
+  <img src="https://cdn.simpleicons.org/graphql/E10098" height="50" alt="graphql logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="50" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="40" alt="amazonwebservices logo"  />
+  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="50" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dynamodb" height="40" alt="amazondynamodb logo"  />
+  <img src="https://skillicons.dev/icons?i=dynamodb" height="50" alt="amazondynamodb logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="50" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="40" alt="microsoftsqlserver logo"  />
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="50" alt="microsoftsqlserver logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/apache/D22128" height="40" alt="apache logo"  />
+  <img src="https://cdn.simpleicons.org/apache/D22128" height="50" alt="apache logo"  />
 </div>
 
 ###
