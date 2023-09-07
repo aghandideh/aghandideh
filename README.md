@@ -33,6 +33,13 @@
 
 ###
 
+<p align="center">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jalallinux&theme=github_dark" alt="jallallinux" />
+<img align="center" src="https://raw.githubusercontent.com/jalallinux/jalallinux/master/gitartwork.svg" alt="JalalLinuX" />
+</p>
+
+###
+
 <div align="center">
   <img src="https://cdn.simpleicons.org/php/777BB4" height="50" alt="php logo"  />
   <img width="12" />
